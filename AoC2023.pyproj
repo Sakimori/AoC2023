@@ -29,6 +29,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Day1\input" />
+    <Content Include="Day 2\input" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Day1\" />
