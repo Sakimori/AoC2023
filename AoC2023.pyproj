@@ -24,12 +24,15 @@
     <Compile Include="AoC2023.py" />
     <Compile Include="Day1\day1part2.py" />
     <Compile Include="Day1\day1part1.py" />
+    <Compile Include="Day 2\day2part1.py" />
+    <Compile Include="Day 2\day2part2.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Day1\input" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Day1\" />
+    <Folder Include="Day 2\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
