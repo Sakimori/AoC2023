@@ -32,6 +32,8 @@
     <Compile Include="Day 4\day4part1.py" />
     <Compile Include="Day 5\day5part2.py" />
     <Compile Include="Day 5\day5part1.py" />
+    <Compile Include="Day 6\day6part2.py" />
+    <Compile Include="Day 6\day6part1.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Day 1\input" />
@@ -39,6 +41,7 @@
     <Content Include="Day 3\input" />
     <Content Include="Day 4\input" />
     <Content Include="Day 5\input" />
+    <Content Include="Day 6\input" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Day 1\" />
@@ -46,6 +49,7 @@
     <Folder Include="Day 3\" />
     <Folder Include="Day 4\" />
     <Folder Include="Day 5\" />
+    <Folder Include="Day 6\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
